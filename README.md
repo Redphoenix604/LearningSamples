@@ -4,7 +4,7 @@ Things may not be done the best, or even correct way. But its all about learning
 
 
 ### PhoenixMelee Currently contains, War Axe. Unbinarized P3D.
-Put "PhoenixMelee" folder into your P:/ Drive then pack. Should be easy as that!
+* Put "PhoenixMelee" folder into your P:/ Drive then pack. Should be easy as that!
 ### ServerStart Contains, Basic server start.bat
-Used for starting your server with Mods and Serverside Mods.
-Be sure to change the paths if needbe.
+* Used for starting your server with Mods and Serverside Mods.
+* Be sure to change the paths if needbe.
