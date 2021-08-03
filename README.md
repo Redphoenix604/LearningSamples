@@ -1,4 +1,5 @@
 # LearningSamples
+![alt text](https://i.imgur.com/KWiSuud.png "Phoenix Samples")
 Samples of random things Ive done. Mabye someone else will learn something too.
 Things may not be done the best, or even correct way. But its all about learning.
 
